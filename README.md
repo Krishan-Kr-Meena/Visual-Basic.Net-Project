@@ -77,24 +77,18 @@ Visual-Basic.Net-Project/
    ```bash
    git clone https://github.com/Krishan-Kr-Meena/Visual-Basic.Net-Project.git
 2. **Open the solution**
-Open VB projects.sln in Visual Studio.
+- Open VB projects.sln in Visual Studio.
 
 3. **Set up the database**
-
-Create a database in SQL Server (e.g., UserAuthDB).
-
-Create a table named Users with columns like UserID, Username, Email, and Password.
-
-Update the connection string in DatabaseConnection.vb to match your SQL Server details.
+- Create a database in SQL Server (e.g., UserAuthDB).
+- Create a table named Users with columns like UserID, Username, Email, and Password.
+- Update the connection string in DatabaseConnection.vb to match your SQL Server details.
 
 4. **Build and run**
-Press F5 or click Start to launch the application.
-
-Register a new user from the Sign Up form.
-
-Log in with the registered credentials.
-
-After logging in, access the Notepad, Calculator, or Marks Calculator modules.
+- Press F5 or click Start to launch the application.
+- Register a new user from the Sign Up form.
+- Log in with the registered credentials.
+- After logging in, access the Notepad, Calculator, or Marks Calculator modules.
 
 ---
 
@@ -107,12 +101,8 @@ After logging in, access the Notepad, Calculator, or Marks Calculator modules.
 - Modular and reusable code structure
 
 ## 💡 Future Enhancements
-Add Forgot Password and Email Verification features
-
-Implement Password Encryption for better security
-
-Add a Dark Mode toggle
-
-Export student results as .pdf or .csv
-
-Add user session management and profile settings
+- Add Forgot Password and Email Verification features
+- Implement Password Encryption for better security
+- Add a Dark Mode toggle
+- Export student results as .pdf or .csv
+- Add user session management and profile settings
