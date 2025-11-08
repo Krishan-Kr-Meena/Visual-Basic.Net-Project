@@ -53,6 +53,7 @@ Each module features a clean graphical interface designed for ease of use and le
 
 ---
 
+```markdown
 ## 📂 Project Structure  
 
 Visual-Basic.Net-Project/
