@@ -54,3 +54,14 @@ Each module features a clean graphical interface designed for ease of use and le
 ---
 
 ## 📂 Project Structure  
+Visual-Basic.Net-Project/
+│
+├── VB projects.sln # Solution file
+├── VB projects/ # Source code folder
+│ ├── LoginForm.vb # Sign In form
+│ ├── RegisterForm.vb # Sign Up form
+│ ├── Notepad.vb # Notepad module
+│ ├── Calculator.vb # Calculator module
+│ ├── StudentMarksCalculator.vb # Student Marks Calculator module
+│ └── DatabaseConnection.vb # SQL connection logic
+└── README.md
